@@ -49,7 +49,6 @@ Typically, either you work on  :
 
 Hotfixes are used to addess quick correction of a bug or a defect usually to expedit the process and place corrections on prod straight away.
 
-test
 
 ### Common Git Commands
 
@@ -92,3 +91,10 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
         git config --global user.name "CodingManoj"
         git config --global user.email "CodingManoj@gmail.com"
 ```
+
+
+### command to give a name in your commit history
+---
+git config --global user.name "hidyathms"
+git config --global user.email "hidayathms@outlook.com"
+---

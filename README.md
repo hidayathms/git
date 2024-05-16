@@ -49,6 +49,7 @@ Typically, either you work on  :
 
 Hotfixes are used to addess quick correction of a bug or a defect usually to expedit the process and place corrections on prod straight away.
 
+test
 
 ### Common Git Commands
 

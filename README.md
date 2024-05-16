@@ -95,6 +95,8 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
 
 ### command to give a name in your commit history
 ---
+
 git config --global user.name "hidyathms"
 git config --global user.email "hidayathms@outlook.com"
+
 ---
